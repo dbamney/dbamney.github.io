@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron E. Tallman | Darshan Bamney</title>
+    <link>https://dbamney.github.io/authors/aaron-e.-tallman/</link>
+      <atom:link href="https://dbamney.github.io/authors/aaron-e.-tallman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aaron E. Tallman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Darshan Bamney</copyright><lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dbamney.github.io/img/icon-192.png</url>
+      <title>Aaron E. Tallman</title>
+      <link>https://dbamney.github.io/authors/aaron-e.-tallman/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Diffraction Analysis of Dislocations and Dislocation Networks in Discrete Dislocation Dynamics Simulations</title>
+      <link>https://dbamney.github.io/publication/diffraction1/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://dbamney.github.io/publication/diffraction1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

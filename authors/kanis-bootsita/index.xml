@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kanis Bootsita | Darshan Bamney</title>
+    <link>https://dbamney.github.io/authors/kanis-bootsita/</link>
+      <atom:link href="https://dbamney.github.io/authors/kanis-bootsita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kanis Bootsita</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Darshan Bamney</copyright><lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dbamney.github.io/img/icon-192.png</url>
+      <title>Kanis Bootsita</title>
+      <link>https://dbamney.github.io/authors/kanis-bootsita/</link>
+    </image>
+    
+    <item>
+      <title>Mobility of Dislocations in Aluminum: Faceting and Asymmetry during Nanoscale Dislocation Shear Loop Expansion</title>
+      <link>https://dbamney.github.io/publication/mob1/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://dbamney.github.io/publication/mob1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
