@@ -5,7 +5,7 @@
     <link>https://dbamney.github.io/authors/laurent-capolungo/</link>
       <atom:link href="https://dbamney.github.io/authors/laurent-capolungo/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent Capolungo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Darshan Bamney</copyright><lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Darshan Bamney</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dbamney.github.io/img/icon-192.png</url>
       <title>Laurent Capolungo</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Mobility of Dislocations in Aluminum: Faceting and Asymmetry during Nanoscale Dislocation Shear Loop Expansion</title>
-      <link>https://dbamney.github.io/publication/mob1/</link>
-      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://dbamney.github.io/publication/mob1/</guid>
+      <title>Virtual Diffraction Analysis of Dislocations and Dislocation Networks in Discrete Dislocation Dynamics Simulations</title>
+      <link>https://dbamney.github.io/publication/diffraction1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://dbamney.github.io/publication/diffraction1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobility of Dislocations in Aluminum: The Role of Non-Schmid Stress State</title>
       <link>https://dbamney.github.io/publication/mob2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://dbamney.github.io/publication/mob2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Virtual Diffraction Analysis of Dislocations and Dislocation Networks in Discrete Dislocation Dynamics Simulations</title>
-      <link>https://dbamney.github.io/publication/diffraction1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dbamney.github.io/publication/diffraction1/</guid>
+      <title>Mobility of Dislocations in Aluminum: Faceting and Asymmetry during Nanoscale Dislocation Shear Loop Expansion</title>
+      <link>https://dbamney.github.io/publication/mob1/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://dbamney.github.io/publication/mob1/</guid>
       <description></description>
     </item>
     
