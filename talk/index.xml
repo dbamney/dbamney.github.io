@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Darshan Bamney</title>
+    <title>Conference Presentations | Darshan Bamney</title>
     <link>https://dbamney.github.io/talk/</link>
       <atom:link href="https://dbamney.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Conference Presentations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Darshan Bamney</copyright>
     <image>
       <url>https://dbamney.github.io/img/icon-192.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Conference Presentations</title>
       <link>https://dbamney.github.io/talk/</link>
     </image>
     
