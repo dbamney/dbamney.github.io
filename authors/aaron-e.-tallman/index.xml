@@ -5,7 +5,7 @@
     <link>https://dbamney.github.io/authors/aaron-e.-tallman/</link>
       <atom:link href="https://dbamney.github.io/authors/aaron-e.-tallman/index.xml" rel="self" type="application/rss+xml" />
     <description>Aaron E. Tallman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Darshan Bamney</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Darshan Bamney</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dbamney.github.io/img/icon-192.png</url>
       <title>Aaron E. Tallman</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Virtual Diffraction Analysis of Dislocations and Dislocation Networks in Discrete Dislocation Dynamics Simulations</title>
-      <link>https://dbamney.github.io/publication/diffraction1/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://dbamney.github.io/publication/diffraction1/</guid>
+      <title>Data-Driven Analysis of Neutron Diffraction Line Profiles: Application to Plastically Deformed Ta</title>
+      <link>https://dbamney.github.io/publication/diffraction2/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://dbamney.github.io/publication/diffraction2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data-Driven Analysis of Neutron Diffraction Line Profiles: Application to Plastically Deformed Ta</title>
-      <link>https://dbamney.github.io/publication/diffraction2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dbamney.github.io/publication/diffraction2/</guid>
+      <title>Virtual Diffraction Analysis of Dislocations and Dislocation Networks in Discrete Dislocation Dynamics Simulations</title>
+      <link>https://dbamney.github.io/publication/diffraction1/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://dbamney.github.io/publication/diffraction1/</guid>
       <description></description>
     </item>
     
